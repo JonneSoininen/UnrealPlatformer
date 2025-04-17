@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Platforms/BP_Platform_Parent.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Platforms/Materials/M_Invisible.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Platforms/Materials/M_RedMesh.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/EF/ON5883SU8CMCFKZ25F71JN.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/K5/U0NGFE4DLPAZW9Q8NK5YHF.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/BS_CrouchWalk.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Idle_Rifle_Hip.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Idle_Rifle_Ironsights.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_to_Stand_Rifle_Hip.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Walk_Fwd_Rifle_Hip.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Walk_Fwd_Rifle_Ironsights.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Walk_Lt_Rifle_Hip.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Walk_Lt_Rifle_Ironsights.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Walk_Rt_Rifle_Hip.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Characters/Mannequins/Animations/Manny/Crouch_Walk_Rt_Rifle_Ironsights.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/05/L2GEF2Z7ZF8WYX9GSMIZ4I.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Platforms/BP_Platform_Gravity.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2N/X2PDAWVJEEG5HB511FRWSE.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Platforms/BP_Platform_Spikes.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/07/7Y2TTYK1OE8KA055QHF8KC.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Platforms/BP_Platform_Ice.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0X/WY0NJXL0R1TLFBKBWC5XPN.uasset",
+				"C:/Users/jonne/Documents/Unreal Projects/Tasohyppely/Content/Platforms/BP_Platform.uasset"
+			]
+		}
+	]
+}
